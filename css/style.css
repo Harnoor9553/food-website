@@ -243,4 +243,21 @@ p {
     text-transform: uppercase;
 }
 
+/*
+----------------------------------------
+About Section Design
+----------------------------------------
+*/
 
+.about-section {
+    background: var(--white-color);
+}
+
+.about-section .card,
+.about-section .card img {
+    border-radius: 0.625rem;
+}
+
+.about-section .text-sec {
+    padding-left: 2rem;
+}

@@ -24,7 +24,9 @@
 
 
     /* Banner Design */
-
+.top-banner{
+    padding: 9.375rem 0 9.375rem;
+}
     /* carousel design */
 
 
@@ -32,8 +34,19 @@
 @media (max-width: 767px) {
 
     /* custom css */
+    h1{
+        font-size: 2.8rem;
+         }
+         h2{
+            font-size:2rem;
+            line-height: 2.0625rem;
+         }
+
 
     /* top banner */
+    .top-banner{
+        padding: 10.875rem 0 9.375rem;
+    }
 
     /* story section */
 
